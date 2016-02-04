@@ -1,16 +1,17 @@
 # Git Workflow
 
-**Author:** _\<your name\>_
+**Author:** Massimo Lesti
 
-**Due date:** _\<date\>_
+
+**Due date:** 2/2/16
 
 ## Description
 
-_\<Give a description of the assignment here. Often this will be copied from the text.\>_
+You gotta take the file and add your own name and words and stuff, not unlike what I am currently doing.
 
 ## What I Learned from This
 
-_\<Explain what you learned from this assignment. This should be in your own words.\>_
+How to get files from GitHub and mess with them in Atom or other editors. Also started to learn how to do markdown in GitHub.
 
 ## Honor Pledge
 
@@ -21,4 +22,5 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-_\<your name\>_
+_Massimo Lesti_     
+Major:key:
